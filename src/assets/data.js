@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "What is the capital of Pakistan?",
+      option1: "Karachi",
+      option2: "Lahore",
+      option3: "Islamabad",
+      option4: "Peshawar",
+      ans: 3,
+    },
+    {
+      question: "What is the capital of India?",
+      option1: "Mumbai",
+      option2: "New Delhi",
+      option3: "Kolkata",
+      option4: "Chennai",
+      ans: 2,
+    },
+    {
+      question: "What is the capital of Bangladesh?",
+      option1: "Rangpur",
+      option2: "Sylhet",
+      option3: "Chittagong",
+      option4: "Dhaka",
+      ans: 4,
+    },
+    {
+      question: "What is the capital of Saudi Arabia?",
+      option1: "Riyadh",
+      option2: "Jeddah",
+      option3: "Madinah",
+      option4: "Makkah",
+      ans: 1,
+    },
+    {
+      question: "What is the capital of Turkey?",
+      option1: "Antalya",
+      option2: "Ankara",
+      option3: "Istanbul",
+      option4: "Konya",
+      ans: 2,
+    },
+  ];
