@@ -57,7 +57,7 @@ const Quiz = () => {
 
   return (
     <div className="container">
-      <h1>Quiz App</h1>
+      <h1>Welcome to my online quiz App</h1>
       <hr />
       {result ? 
         <></> : 
